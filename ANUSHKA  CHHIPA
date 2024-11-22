@@ -1,0 +1,51 @@
+Portfolio 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Portfolio</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Welcome to My Portfolio</h1>
+        <nav>
+            <ul>
+                <li><a href="#about">About Me</a></li>
+                <li><a href="#Description">Description</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section id="about">
+        <h2>About Me</h2>
+        <p>Hello, I'm Anushka Chhipa, a student of electronics and communication engineering.</p>
+    </section>
+
+    <section id="Description">
+        <h2>Description</h2></h2>
+        <div class="Description">
+            <h3>Academics</h3>
+            <p> Student at Poornima colege of engineering .</p>
+        </div>
+        <div class="description">
+            <h3>Interests</h3>
+            <p> "I am a third-year Electronics and Communication Engineering student with a keen interest in technology, space exploration, and environmental science. I am passionate about learning, creating innovative solutions, and exploring the intersection of science and engineering."</p>
+        </div>
+    </section>
+
+    <section id="contact">
+        <h2>Contact</h2>
+        <p>Email: 2022pcceecanushka021@poornima.org</p>
+        <p>Phone: +91 9636723664</p>
+    </section>
+
+    <footer>
+        <p>&copy; 2024 Anushka Chhipa. All Rights Reserved.</p>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
